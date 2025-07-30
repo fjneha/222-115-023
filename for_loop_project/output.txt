@@ -1,0 +1,1 @@
+✅ Valid for-loop syntax detected.
